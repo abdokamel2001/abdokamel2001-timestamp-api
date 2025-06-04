@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/convert", "dest": "/api/convert.js" }
+  ]
+}
